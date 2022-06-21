@@ -3,5 +3,5 @@ Repositório criado para desafio da DIO de criação para o primeiro repositóri
 
 ## Links Úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)<br>
-[Stack Overflow](https://pt.stackoverflow.com/)
-[Baixar Git](https://git-scm.com/downloads)
+[Stack Overflow](https://pt.stackoverflow.com/)<br>
+[Baixar Git](https://git-scm.com/downloads)<br>
