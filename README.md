@@ -1,2 +1,2 @@
-# links-e-info-uteis
-Repositório criado para desafio da DIO de criação para do primeiro repositório no github.
+# Espaço com links e informação úteis para tecnologia.
+Repositório criado para desafio da DIO de criação para o primeiro repositório no github.
