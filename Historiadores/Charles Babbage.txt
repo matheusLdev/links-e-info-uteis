@@ -1,0 +1,5 @@
+Charles Babbage (Londres, 26 de dezembro de 1791 — Londres, 18 de outubro de 1871) foi um cientista, matemático, filósofo, engenheiro mecânico e inventor inglês nascido em Teignmouth, Devon, que originou o conceito de um computador programável junto à condessa de Lovelace, Augusta Ada King.
+
+Charles Babbage é mais conhecido e, de certa forma, referenciado como o inventor que projetou o primeiro computador de uso geral, utilizando apenas partes mecânicas, a máquina analítica. Ele é considerado o pioneiro. Seu invento, porém, exigia técnicas bastante avançadas e caras na época, e nunca foi construído. Sua invenção também não era conhecida dos criadores do computador moderno.
+
+Mais recentemente, entre 1985 e 1991, o Museu de Ciência de Londres construiu outra de suas invenções inacabadas, a máquina diferencial 2, usando apenas técnicas disponíveis na época de Babbage.
